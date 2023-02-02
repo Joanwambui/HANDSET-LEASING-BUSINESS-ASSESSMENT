@@ -32,7 +32,7 @@ Step 5:I would calculate the impact of handset leasing for Company X
 We will first calculate the percentage growth of the industry Average:
 ![](Images/Screenshot%20(270).png)
 
-Then we would calculate the Growth percentage for both Company A and Company B separately:
+Then we would calculate the Growth percentage and its market shares for both Company A and Company B separately:
 ![](Images/Screenshot%20(268).png)
 
 ![](Images/Screenshot%20(269).png)
