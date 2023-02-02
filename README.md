@@ -15,4 +15,16 @@ Take a look at the financial information we'll be using:
 ![](Images/Screenshot%20(258).png)
 
 # DATA ANALYSIS-MODELLING
-In order to establish how leasing mobile devices affects financial performance, I will perform data analysis for Companies A and B. As a result, I will apply my own assumptions and determine the measures that would be used to do a financial prediction for Company X.
+Task1-In order to establish how leasing mobile devices affects financial performance, I will perform data analysis for Companies A and B. As a result, I will apply my own assumptions and determine the measures that would be used to do a financial prediction for Company X.
+Task2-Then, using the identified measures and performance consequences, I will anticipate an increase in Company X's key KPIs. To accomplish this, first assume Company X will expand at the industry average rate, then assume it will grow at the same rate as Company A, which started leasing. We can determine the net impact of leasing by comparing the two forecasts.
+To find the incremental impact of introducing handset leasing I will conduct the following steps with illustrations to follow:
+Step 1:We would need to identify the metrics that would be most important
+Step 2:In order to estimate no leasing case,I would need to apply industry average growth rates for the relevant metrics(Company B) for Company X
+Step 3:To estimate leasing case,I would apply Company A growth cases
+Step 4:I would make logical estimates for all other figures, using historical data
+Step 5:I would calculate the impact of handset leasing for Company X.
+Step 1. Identify the metrics that are most important	
+1a. Net profit 	Ultimately the most important number, but it is a dependant variable, and hence will need to be calculated
+1b. Operating Revenue	This is the biggest driver of net profit as most other aspects remain constant
+1c. ARPU	As an additional measure of performance
+![image](https://user-images.githubusercontent.com/112846283/216332713-7e9219f2-e408-469b-8b6e-bfce17611de0.png)
