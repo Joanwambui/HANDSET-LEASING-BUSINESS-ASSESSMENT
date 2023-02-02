@@ -13,3 +13,6 @@ I use Excel to conduct my analysis on some financial data. For our dataset, ther
 Take a look at the financial information we'll be using:
 ![](Images/Screenshot%20(257).png)
 ![](Images/Screenshot%20(258).png)
+
+# DATA ANALYSIS-MODELLING
+In order to establish how leasing mobile devices affects financial performance, I will perform data analysis for Companies A and B. As a result, I will apply my own assumptions and determine the measures that would be used to do a financial prediction for Company X.
