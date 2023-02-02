@@ -19,11 +19,11 @@ Task1-In order to establish how leasing mobile devices affects financial perform
 Task2-Then, using the identified measures and performance consequences, I will anticipate an increase in Company X's key KPIs. To accomplish this, first assume Company X will expand at the industry average rate, then assume it will grow at the same rate as Company A, which started leasing. We can determine the net impact of leasing by comparing the two forecasts.
 To find the incremental impact of introducing handset leasing I will conduct the following steps with illustrations to follow:
 
-Step 1:We would need to identify the metrics that would be most important
+Step 1:The most crucial parameters would need to be determined.
 
-Step 2:In order to estimate no leasing case,I would need to apply industry average growth rates for the relevant metrics(Company B) for Company X
+Step 2:I would need to apply industry average growth rates for the pertinent indicators (Company B) for Company X in order to estimate no leasing case.
 
-Step 3:To estimate leasing case,I would apply Company A growth cases
+Step 3:I would use Company A growth cases to estimate the lease case.
 
 Step 4:I would make logical estimates for all other figures, using historical data
 
