@@ -7,3 +7,6 @@ I consider how the handset leasing company has affected other markets in order t
 ![](Images/Screenshot%20(251).png)
 ![](Images/Screenshot%20(252).png)
 ![](Images/Screenshot%20(253).png)
+
+# DATASET OVERVIEW
+I use Excel to conduct my analysis on some financial data. For our dataset, there are two businesses that closely resemble Company X's domestic market. An efficient duopoly is formed by the two major players. Two years ago, Company A introduced handset leasing, but Company B did not. We can now separate the effect of handset leasing on profitability from the information provided.
