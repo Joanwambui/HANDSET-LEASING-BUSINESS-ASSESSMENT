@@ -28,7 +28,7 @@ Step 3:To estimate leasing case,I would apply Company A growth cases
 Step 4:I would make logical estimates for all other figures, using historical data
 
 Step 5:I would calculate the impact of handset leasing for Company X
-
+![image](https://user-images.githubusercontent.com/112846283/216332713-7e9219f2-e408-469b-8b6e-bfce17611de0.png)
 We will first calculate the percentage growth of the industry Average:
 ![](Images/Screenshot%20(267).png)
 
