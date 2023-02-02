@@ -36,8 +36,9 @@ Step 5:I would calculate the impact of handset leasing for Company X
 We will first calculate the percentage growth of the industry Average:
 ![](Images/Screenshot%20(270).png)
 
-Then we would calculate the Growth percent![](Images/Screenshot%20(269).png)age for both Company A and Company B separately:
+Then we would calculate the Growth percentage for both Company A and Company B separately:
 ![](Images/Screenshot%20(269).png)
+
 Now we would find the Net Profit Growth ARPU for the Indusrty Average:
 ![](Images/Screenshot%20(272).png)
 ![](Images/Screenshot%20(275).png)
