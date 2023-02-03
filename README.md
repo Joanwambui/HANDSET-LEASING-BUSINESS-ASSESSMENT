@@ -47,3 +47,9 @@ Now we would find the Net Profit Growth ARPU for the Indusrty Average:
 # CONCLUSION
 Having analyzed values for company A and company B ,it would now be possible to forecast the values for company X.
 ![](Images/Screenshot%20(278).png)
+We would first calculate Mobile service revenue as follows:
+![](Images/Screenshot%20(282).png)
+Calculting EBITDA would simply be revenue-expenses:
+![](Images/Screenshot%20(280).png)
+Finally we would find the difference between the two tables (with and without handset leasing for Company X)![](Images/Screenshot%20(286).png)
+![](Images/Screenshot%20(284).png)
