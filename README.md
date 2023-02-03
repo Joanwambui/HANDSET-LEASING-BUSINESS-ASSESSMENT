@@ -43,3 +43,7 @@ Now we would find the Net Profit Growth ARPU for the Indusrty Average:
 ![](Images/Screenshot%20(272).png)
 ![](Images/Screenshot%20(275).png)
 ![](Images/Screenshot%20(276).png)
+
+# CONCLUSION
+Having analyzed values for company A and company B ,it would now be possible to forecast the values for company X.
+![](Images/Screenshot%20(278).png)
